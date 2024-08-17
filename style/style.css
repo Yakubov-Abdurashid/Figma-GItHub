@@ -103,4 +103,50 @@ header .header_container .cou .na .fa-bell {
   font-size: 25px;
   margin-top: 17px;
   font-weight: 100;
+}
+
+main {
+  width: 1440px;
+  margin: auto;
+}
+main .main_container .text_1 {
+  margin-top: 70px;
+  margin-left: 120px;
+  font-size: 15px;
+  font-weight: 400;
+}
+main .main_container .text2 {
+  margin-left: 120px;
+  margin-top: 20px;
+  font-weight: 100;
+}
+main .main_container .con {
+  margin-top: 70px;
+  margin-left: 120px;
+}
+main .main_container .con .ali .img1 {
+  display: flex;
+}
+main .main_container .con .ali .img1 .qwe {
+  width: 550px;
+  height: 546px;
+  background-color: #D6EDF6;
+}
+main .main_container .con .ali .img1 .qwe .q {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+main .main_container .con .ali .img1 .qwe .q .rasm0 .img2 {
+  margin-left: 70px;
+  position: absolute;
+}
+main .main_container .con .ali .img1 .qwe .q .text3 {
+  margin-top: 20px;
+  margin-left: 25px;
+  font-size: 23px;
+}
+main .main_container .con .ali .img1 .qwe .text_2 {
+  font-size: 15px;
+  margin-left: 150px;
 }/*# sourceMappingURL=style.css.map */

@@ -69,12 +69,14 @@ header {
 
             .input {
                 margin-left: 20px;
-                .fa-magnifying-glass{
+
+                .fa-magnifying-glass {
                     position: absolute;
-                    margin-top:18px ;
+                    margin-top: 18px;
                     font-size: 24px;
                     margin-left: 430px;
                 }
+
                 input {
                     margin-top: 8px;
                     width: 465px;
@@ -83,39 +85,115 @@ header {
                     font-size: 17px;
                 }
             }
-            .na{display: flex;
-                nav{
+
+            .na {
+                display: flex;
+
+                nav {
                     margin-top: 20px;
                     display: flex;
-                    li{
+
+                    li {
                         list-style: none;
                         margin-left: 20px;
                         font-weight: 200;
-                       
-                        a{
+
+                        a {
                             text-decoration: none;
                             color: black;
                         }
                     }
                 }
-                .sec{
-                   
-                    .fa-globe{
+
+                .sec {
+
+                    .fa-globe {
                         margin-left: 20px;
                     }
-                    select{
+
+                    select {
                         border: 0;
                         color: rgb(96, 93, 93);
                         width: 120px;
                         height: 45px;
                     }
                 }
-                .fa-bell{
+
+                .fa-bell {
                     font-size: 25px;
                     margin-top: 17px;
                     font-weight: 100;
                 }
             }
+        }
+    }
+}
+
+main {
+    width: 1440px;
+    margin: auto;
+
+    .main_container {
+        .text_1 {
+            margin-top: 70px;
+            margin-left: 120px;
+            font-size: 15px;
+            font-weight: 400;
+        }
+
+        .text2 {
+            margin-left: 120px;
+            margin-top: 20px;
+            font-weight: 100;
+        }
+
+        .con {
+            margin-top: 70px;
+            margin-left: 120px;
+
+
+            .ali {
+                .img1 {
+                    display: flex;
+
+                    .qwe {
+                        width: 550px;
+                        height: 546px;
+                        background-color:
+                            #D6EDF6;
+
+                        .q {
+                            display: flex;
+                            margin-top: 30px;
+                            margin-left: 30px;
+
+                            .rasm0 {
+
+                                .img2 {
+                                    margin-left: 70px;
+                                    position: absolute;
+                                }
+                            }
+
+                            .text3 {
+                                margin-top: 20px;
+                                margin-left: 25px;
+                                font-size: 23px;
+                            }
+                        }
+                        .text_2{
+                            font-size: 15px;
+                            
+                            margin-left: 150px;
+                        }
+                        .text_3{
+                            
+                        }
+                    }
+                }
+
+            }
+
         }
     }
 }
