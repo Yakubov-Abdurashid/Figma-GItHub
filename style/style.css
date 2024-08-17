@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 1440px;
+  margin: auto;
+}
+header .header_container .navbar {
+  width: 1440px;
+  height: 56px;
+  background-color: black;
+}
+header .header_container .navbar nav {
+  margin-left: 48px;
+  display: flex;
+  align-items: center;
+}
+header .header_container .navbar nav li {
+  list-style: none;
+  margin-top: 24px;
+  margin-left: 40px;
+  font-size: 20px;
+}
+header .header_container .navbar nav li a {
+  text-decoration: none;
+  color: white;
+}
+header .header_container .navbar .box {
+  margin-top: 5px;
+  margin-left: 74px;
+  width: 210px;
+  height: 5px;
+  background-color: white;
+  border: 0;
+}
+header .header_container .cou {
+  padding-left: 20px;
+  display: flex;
+  width: 1340px;
+  height: 65px;
+  margin: auto;
+}
+header .header_container .cou .text1 {
+  color: #0056D2;
+  font-size: 40px;
+  font-weight: 900;
+}
+header .header_container .cou select {
+  margin-left: 25px;
+  font-size: 17px;
+  margin-top: 10px;
+  color: #0056D2;
+  width: 120px;
+  height: 38px;
+  border-radius: 4px;
+  border-color: #0056D2;
+}
+header .header_container .cou .input {
+  margin-left: 20px;
+}
+header .header_container .cou .input .fa-magnifying-glass {
+  position: absolute;
+  margin-top: 18px;
+  font-size: 24px;
+  margin-left: 430px;
+}
+header .header_container .cou .input input {
+  margin-top: 8px;
+  width: 465px;
+  height: 45px;
+  border-radius: 40px;
+  font-size: 17px;
+}
+header .header_container .cou .na {
+  display: flex;
+}
+header .header_container .cou .na nav {
+  margin-top: 20px;
+  display: flex;
+}
+header .header_container .cou .na nav li {
+  list-style: none;
+  margin-left: 20px;
+  font-weight: 200;
+}
+header .header_container .cou .na nav li a {
+  text-decoration: none;
+  color: black;
+}
+header .header_container .cou .na .sec .fa-globe {
+  margin-left: 20px;
+}
+header .header_container .cou .na .sec select {
+  border: 0;
+  color: rgb(96, 93, 93);
+  width: 120px;
+  height: 45px;
+}
+header .header_container .cou .na .fa-bell {
+  font-size: 25px;
+  margin-top: 17px;
+  font-weight: 100;
+}/*# sourceMappingURL=style.css.map */
