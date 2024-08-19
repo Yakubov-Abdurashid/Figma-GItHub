@@ -195,4 +195,81 @@ main .main_container .text-1 .textt1 .asd {
   font-size: 16px;
   color: rgb(99, 96, 96);
   font-weight: 300;
+}
+
+footer {
+  width: 1440px;
+  margin: auto;
+  height: 500px;
+}
+footer .footer-container .bmw {
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-around;
+}
+footer .footer-container .bmw .ul {
+  margin-left: 200px;
+}
+footer .footer-container .bmw .ul li {
+  list-style: none;
+}
+footer .footer-container .bmw .ul li a {
+  text-decoration: none;
+}
+footer .footer-container .bmw .ul .li a {
+  color: black;
+  font-size: 25px;
+  font-weight: 500;
+}
+footer .footer-container .bmw .ul .img01 {
+  margin-top: 20px;
+  text-align: center;
+}
+footer .footer-container .bmw .ua {
+  margin-left: 50px;
+}
+footer .footer-container .bmw .ua .li a {
+  color: black;
+  font-size: 25px;
+  font-weight: 500;
+}
+footer .footer-container .bmw .ua li {
+  list-style: none;
+  color: rgb(0, 0, 0);
+}
+footer .footer-container .bmw .ua li a {
+  text-decoration: none;
+  color: rgb(74, 71, 71);
+}
+footer .footer-container .bmw .us {
+  margin-left: 150px;
+}
+footer .footer-container .bmw .us .li a {
+  color: black;
+  font-size: 25px;
+  font-weight: 500;
+}
+footer .footer-container .bmw .us li {
+  list-style: none;
+  color: rgb(0, 0, 0);
+}
+footer .footer-container .bmw .us li a {
+  text-decoration: none;
+  color: rgb(74, 71, 71);
+}
+footer .footer-container .bmw .ub {
+  margin-left: 150px;
+}
+footer .footer-container .bmw .ub .li a {
+  color: black;
+  font-size: 25px;
+  font-weight: 500;
+}
+footer .footer-container .bmw .ub li {
+  list-style: none;
+  color: rgb(0, 0, 0);
+}
+footer .footer-container .bmw .ub li a {
+  text-decoration: none;
+  color: rgb(74, 71, 71);
 }/*# sourceMappingURL=style.css.map */
